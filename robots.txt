@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://getngo.vercel.app/sitemap.xml
+ 
+Sitemap: https://getngo-fr.vercel.app/sitemap.xml
